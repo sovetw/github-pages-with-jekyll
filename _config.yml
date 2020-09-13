@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Always attempt to Simplify the Complex!
+author: Sonia Verma
+email: soniaverma1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+This site is to showcase my technical writing work experience and my writing portfolio to future employers. I have made an attempt to include work samples from employers only if there are publically available. I have also included some additional samples of my writing that I created during my gratuate class (MS in Technical Communication Management) from Mercer University. 
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  sovetw # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
